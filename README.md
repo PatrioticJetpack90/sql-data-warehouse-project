@@ -73,4 +73,3 @@ This project is licensed under the MIT License. You are free to use, modify, and
 💡 About Me
 Hello! I am **Joseph Jones**, also known as **Patriotic Jetpack**. I am learning through data.
 
-If you want, I can keep improving this README by adding small runnable examples, a minimal set of SQL skeleton scripts under /sql, or a tiny sample dataset in /samples so reviewers can run the project end-to-end.
